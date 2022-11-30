@@ -1,0 +1,3 @@
+const Aewsome = () => {
+    alert("Aeeeeeeewsome🔥🔥")
+}
